@@ -2,15 +2,16 @@ id: ICC9840B6
 initial_creation_type: ebook
 source_metadata:
   id: RDI-SS-30
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོའི་རྣམ་ཐར།
   author: མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས་དང་ཀརྨ་བཀྲ་ཤིས་ཆོས་འཕེལ་གཉིས་ཀྱིས་བརྩམས།
   authors: &id001
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས་དང་ཀརྨ་བཀྲ་ཤིས་ཆོས་འཕེལ་གཉིས་ཀྱིས་བརྩམས།
   sku: RDI-SS-30
   cover: Book-30_cover_Front.jpg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
+  title: ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོའི་རྣམ་ཐར།
   authors: *id001
   sku: RDI-SS-30
   cover: Book-30_cover_Front.jpg
