@@ -9,6 +9,7 @@ source_metadata:
   sku: RDI-SS-30
   cover: Book-30_cover_Front.jpg
   volume: {}
+  series: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
   title: ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོའི་རྣམ་ཐར།
